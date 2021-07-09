@@ -1,3 +1,11 @@
+Article Draft
+Current Progress:
+- [x] Background
+- [x] Model Description
+- [] Implementation Details
+- [] Results
+**Please review the Jupyter Notebook containing the project if you can find time, so that the project can be finalized and the remaining sections written**
+
 # Building a Stock Market predictor with Milvus and LSTM networks.
 
 Predicting trends on the stock market has been a goal for as long as stock markets have existed. The motivation is simple; anyone able to predict market trends can make money off of it. However, this is not an easy task. The [efficient-market hypothesis](https://en.wikipedia.org/wiki/Efficient-market_hypothesis) suggests that the market prices at any given instant take into account all publicly availiable knowledge, thereby making prediction of future prices using the same set of information effectively impossible. 
@@ -16,4 +24,4 @@ Long-Short Term Models (LSTM) are a type of recurrent neural network which excel
 
 In this project, we combine LSTM models and Milvus as a form of Ensemble Learning to reduce over-fitting. After selecting a target stock and time period, we leverage Milvus to find similar stock time periods from our historical data. We then use classifiers trained on each stock to create predictions for our target stock, combined using a weighted average into a single prediction.
 
-## Implementation details - pending feedback on the notebook itself. If you are reading this, [please review the project here](stock\ search\ v3.ipynb) and send your feedback to Ryan on the U.S. team.
+## Implementation details - pending feedback on the project itself. If you are reading this, [please review the project here](stock\ search\ v3.ipynb) and send your feedback to Ryan on the U.S. team.
