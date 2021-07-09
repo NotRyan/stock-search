@@ -27,4 +27,4 @@ Long-Short Term Models (LSTM) are a type of recurrent neural network which excel
 
 In this project, we combine LSTM models and Milvus as a form of Ensemble Learning to reduce over-fitting. After selecting a target stock and time period, we leverage Milvus to find similar stock time periods from our historical data. We then use classifiers trained on each stock to create predictions for our target stock, combined using a weighted average into a single prediction.
 
-## Implementation details - pending feedback on the project itself. If you are reading this, [please review the project here](stock\ search\ v3.ipynb) and send your feedback to Ryan on the U.S. team.
+## Implementation details - pending feedback on the project itself. If you are reading this, [please review the project here](https://github.com/NotRyan/stock-search/blob/master/stock%20search%20v3.ipynb) and send your feedback to Ryan on the U.S. team.
