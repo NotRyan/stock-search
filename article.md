@@ -1,9 +1,12 @@
 Article Draft
+
 Current Progress:
+
 - [x] Background
 - [x] Model Description
 - [] Implementation Details
 - [] Results
+
 **Please review the Jupyter Notebook containing the project if you can find time, so that the project can be finalized and the remaining sections written**
 
 # Building a Stock Market predictor with Milvus and LSTM networks.
