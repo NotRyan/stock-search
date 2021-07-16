@@ -1,0 +1,7 @@
+pandas
+numpy
+keras
+pymysql
+sklearn
+pymilvus==1.1.0
+matplotlib
